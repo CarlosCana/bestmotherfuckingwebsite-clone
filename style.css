@@ -1,0 +1,75 @@
+body
+{
+	background-color: #ffefe;
+	margin: 2em auto;
+	max-width: 800px;
+	text-align: justify;
+	color: #454545;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px
+}
+
+a:visited
+{
+	color: ##85144b;
+}
+
+.mfws-blue /*Change the color of the word motherfuckingwebsite to bleu*/
+{
+	color: #16a085
+}
+
+.tbmfws-blue /*Change the color of the word thebestmotherfuckingwebsite to bleu*/
+{
+	color: #16a085
+}
+
+/*Container for the cat image*/
+.imgContainer
+{
+	width: 40%;
+	display: inline-block;
+}
+
+.undercat /*Font size for the description of the cat image*/
+{
+	font-size: small;
+}
+
+.text-block
+{
+	float: right;
+	width: 55%;
+}
+
+.kopimi
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+small
+{
+	font-size: .6em
+}
+
+.WRONG
+{
+	
+	color:#c0392b;
+	text-decoration: underline;
+	font-size: 1.1em
+}
+
+.Semiblack
+{
+	color:#444;
+	font-weight: 800
+}
+
+.Miblack
+{
+	color:#454545;
+	font-weight: 800;
+}
